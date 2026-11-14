@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="canonical" href="https://fukuro.su/">
+    <title>Fukuro — Бесконечное лето онлайн</title>
+    <meta name="description" content="Fukuro — браузерный ролевой проект по вселенной «Бесконечного лета». Создайте персонажа, выберите сервер и играйте онлайн.">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="yandex-verification" content="c393220cb5d05ea9">
+    <meta name="theme-color" content="#101713">
+
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Fukuro">
+    <meta property="og:title" content="Fukuro — Бесконечное лето онлайн">
+    <meta property="og:description" content="Браузерный ролевой проект по вселенной «Бесконечного лета».">
+    <meta property="og:url" content="https://fukuro.su/">
+    <meta property="og:image" content="https://fukuro.su/graphics/gui/mainMenu/serverChoose/menu_bg.jpg">
+    <meta property="og:image:width" content="1920">
+    <meta property="og:image:height" content="1080">
+    <meta property="og:image:alt" content="Ворота лагеря «Совёнок»">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fukuro — Бесконечное лето онлайн">
+    <meta name="twitter:description" content="Браузерный ролевой проект по вселенной «Бесконечного лета».">
+    <meta name="twitter:image" content="https://fukuro.su/graphics/gui/mainMenu/serverChoose/menu_bg.jpg">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://fukuro.su/#website",
+          "url": "https://fukuro.su/",
+          "name": "Fukuro",
+          "alternateName": "Fukuro Project",
+          "description": "Браузерный ролевой проект по вселенной «Бесконечного лета».",
+          "inLanguage": "ru",
+          "publisher": {
+            "@id": "https://fukuro.su/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://fukuro.su/#organization",
+          "name": "Fukuro Project",
+          "url": "https://fukuro.su/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://fukuro.su/graphics/gui/mainMenu/serverChoose/fukuro_logo.PNG"
+          }
+        }
+      ]
+    }
+    </script>
+    <script async src="/lib/pixi.min.js"></script>
+  </head>
+  <body>
+    <noscript>
+      <main>
+        <h1>Fukuro — Бесконечное лето онлайн</h1>
+        <p>Браузерный ролевой проект по вселенной «Бесконечного лета».</p>
+        <p>Для создания персонажа и подключения к серверу включите JavaScript.</p>
+      </main>
+    </noscript>
+    <div id="app"></div>
+  <script type="text/javascript" src="/js/5638a5b11e8c928211ad.js"></script><script type="text/javascript" src="/js/0.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/1.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/71.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/16.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/22.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/12.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/8.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/26.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/29.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/4.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/50.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/30.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/55.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/47.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/24.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/44.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/25.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/43.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/66.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/10.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/18.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/19.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/20.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/36.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/68.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/70.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/5.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/6.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/7.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/9.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/11.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/14.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/13.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/15.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/17.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/21.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/23.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/27.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/28.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/31.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/32.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/33.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/34.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/35.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/37.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/38.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/39.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/40.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/41.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/42.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/46.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/45.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/48.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/49.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/51.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/52.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/53.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/54.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/56.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/57.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/58.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/59.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/61.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/62.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/63.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/64.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/65.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/67.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/60.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/69.5638a5b11e8c928211ad.chunk.js"></script><script type="text/javascript" src="/js/3.5638a5b11e8c928211ad.chunk.js"></script></body>
+</html>
